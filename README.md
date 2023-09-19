@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arthur Braga</h1>
+![MasterHead](https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif)
 <h3 align="center">Desenvolvedor Backend</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
