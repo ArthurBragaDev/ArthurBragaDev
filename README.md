@@ -1,5 +1,5 @@
 
-
+<h1 align="center">Hi 👋, I'm Arthur Braga</h1>
 <h3 align="center">Desenvolvedor Backend</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
