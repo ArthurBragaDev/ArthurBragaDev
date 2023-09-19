@@ -1,4 +1,5 @@
-![MasterHead](https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif){height=50%}
+<img src="https://s41660.pcdn.co/wp-content/uploads/2020/04/90-article-banner-2.gif" alt="MasterHead" style="width: 2000px;">
+
 <h3 align="center">Desenvolvedor Backend</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
