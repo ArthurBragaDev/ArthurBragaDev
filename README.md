@@ -1,6 +1,3 @@
-<h4 align="center">
-
-![1b965c3c3b5df0517bdca4e0d95beb15](https://user-images.githubusercontent.com/62772038/163299412-c1144211-a99a-40e9-8630-6d1d256fe156.gif)
 <h1 align="center">Olá 👋,Eu sou o Arthur Braga</h1>
 <h3 align="center">Desenvolvedor Backend</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
